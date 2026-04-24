@@ -1,0 +1,1 @@
+{"version":3,"file":"batch-sync.dto.js","sourceRoot":"","sources":["../../../src/sync/dto/batch-sync.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA0D;AAC1D,yDAAyC;AACzC,yDAAoD;AAEpD,MAAa,YAAY;IAIvB,OAAO,CAAmB;CAC3B;AALD,oCAKC;AADC;IAHC,IAAA,yBAAO,GAAE;IACT,IAAA,gCAAc,EAAC,EAAE,IAAI,EAAE,IAAI,EAAE,CAAC;IAC9B,IAAA,wBAAI,EAAC,GAAG,EAAE,CAAC,iCAAc,CAAC;;6CACD"}

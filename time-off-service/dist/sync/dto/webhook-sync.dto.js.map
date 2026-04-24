@@ -1,0 +1,1 @@
+{"version":3,"file":"webhook-sync.dto.js","sourceRoot":"","sources":["../../../src/sync/dto/webhook-sync.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA0D;AAE1D,MAAa,cAAc;IAEzB,UAAU,CAAS;IAGnB,UAAU,CAAS;IAInB,aAAa,CAAS;CACvB;AAVD,wCAUC;AARC;IADC,IAAA,0BAAQ,GAAE;;kDACQ;AAGnB;IADC,IAAA,0BAAQ,GAAE;;kDACQ;AAInB;IAFC,IAAA,0BAAQ,GAAE;IACV,IAAA,qBAAG,EAAC,CAAC,CAAC;;qDACe"}
